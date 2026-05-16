@@ -14,16 +14,28 @@ yarn-error.log
 .env
 .granite
 
-# 네이버 지도 Client ID (저장소에 올리지 않음)
 **/naverMap.clientId.secret.ts
 .swc
 .DS_Store
+._*
 
-# JetBrains IDEs
+# Editor swap / temp
+*.swp
+*.swo
+*~
+
+# Editors
 .idea/
+.vscode/
+
+# Logs
+*.log
 
 # Test reports
 coverage/
+
+# Claude Code 로컬 설정 (커밋 X)
+.claude/settings.local.json
 
 # Android
 /android/build
@@ -32,3 +44,5 @@ coverage/
 
 # iOS
 /ios/build
+
+assets/
