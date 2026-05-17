@@ -18,9 +18,9 @@ Apps-in-Toss 미니앱으로 만나는 카페 혼잡도 서비스
 
 **카페붐빔**은 원하는 장소의 카페 내부 혼잡도를 확인할 수 있는 토스 미니앱입니다.
 
-<img width="282" height="609" alt="Frame 5610" src="https://github.com/user-attachments/assets/99638ce2-3dcf-4d51-809c-848782925bc5" />
-<img width="282" height="609" alt="image" src="https://github.com/user-attachments/assets/2fcd6f8b-577e-4402-affc-63502e676a0c" />
-<img width="282" height="609" alt="image" src="https://github.com/user-attachments/assets/f114dfb2-70d0-41a7-8972-e4e8db669148" />
+<img width="188" height="406" alt="Frame 5610" src="https://github.com/user-attachments/assets/99638ce2-3dcf-4d51-809c-848782925bc5" />
+<img width="188" height="406" alt="image" src="https://github.com/user-attachments/assets/2fcd6f8b-577e-4402-affc-63502e676a0c" />
+<img width="188" height="406" alt="image" src="https://github.com/user-attachments/assets/f114dfb2-70d0-41a7-8972-e4e8db669148" />
 
 
 ## ✨ 주요 기능
