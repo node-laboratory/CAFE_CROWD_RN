@@ -39,11 +39,11 @@ Apps-in-Toss 미니앱으로 만나는 카페 혼잡도 서비스
 ### Frontend
 
 ```
-React Native 0.84  +  React 19.2  +  TypeScript 5.8
-Apps-in-Toss SDK 2.x  (@apps-in-toss/framework)
+React Native 0.84  +  React 19.2,3  +  TypeScript 5.8
+Apps-in-Toss SDK 2.5.1  (@apps-in-toss/framework)
 Granite Framework  (@granite-js/react-native)
 TDS React Native  (@toss/tds-react-native)
-react-native-webview  +  Naver Maps JavaScript API v3
+react-native-webview 2.0.3 +  Naver Maps JavaScript API v3
 ```
 
 ## 🏗 아키텍처
